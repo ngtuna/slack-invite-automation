@@ -38,6 +38,10 @@ float: left;
 	margin-bottom: 40px;
 }
 
+.logo {
+	margin-top: 20px;
+	height: 80px;
+}
 
 h1{
 font-family: 'Open Sans', sans-serif;
